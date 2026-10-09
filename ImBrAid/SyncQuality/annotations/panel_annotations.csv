@@ -1,0 +1,171 @@
+project,pid,visit,segment_id,source,event,status,confidence,notes,pts_time_base_num,pts_time_base_den,pts_origin_tick,last_old_pts_tick,first_new_pts_tick
+ImBrAid,A7G5SM,VX,main,driver,panel_off,accepted,high,,1,1000,0,79241,79441
+ImBrAid,A7G5SM,VX,main,driver,panel_on,accepted,high,,1,1000,0,2689561,2689761
+ImBrAid,A7G5SM,VX,main,et_scene,panel_off,accepted,high,,1,2500,556,206729,206829
+ImBrAid,A7G5SM,VX,main,et_scene,panel_on,accepted,high,,1,2500,556,6735941,6736042
+ImBrAid,ABVLGQ,VX,main,driver,panel_off,accepted,high,,1,1000,0,77200,77400
+ImBrAid,ABVLGQ,VX,main,driver,panel_on,accepted,high,,1,1000,0,2685938,2686138
+ImBrAid,ABVLGQ,VX,main,et_scene,panel_off,accepted,high,,1,2500,207,221007,221207
+ImBrAid,ABVLGQ,VX,main,et_scene,panel_on,accepted,high,,1,2500,207,6746212,6746313
+ImBrAid,B9NYQ8,VX,main,driver,panel_off,accepted,high,,1,1000,0,54778,54978
+ImBrAid,B9NYQ8,VX,main,driver,panel_on,accepted,high,,1,1000,0,2663478,2663678
+ImBrAid,B9NYQ8,VX,main,et_scene,panel_off,accepted,high,,1,2500,376,225183,225383
+ImBrAid,B9NYQ8,VX,main,et_scene,panel_on,accepted,high,,1,2500,376,6750388,6750589
+ImBrAid,CRVWF9,VX,main,driver,panel_off,accepted,high,,1,1000,0,59909,60109
+ImBrAid,CRVWF9,VX,main,driver,panel_on,accepted,high,,1,1000,0,2673639,2673839
+ImBrAid,CRVWF9,VX,main,et_scene,panel_off,accepted,high,,1,2500,591,236317,236418
+ImBrAid,CRVWF9,VX,main,et_scene,panel_on,accepted,high,,1,2500,591,6774046,6774246
+ImBrAid,CRYSEP,VX,main,driver,panel_off,accepted,high,,1,1000,0,85589,85789
+ImBrAid,CRYSEP,VX,main,driver,panel_on,accepted,high,,1,1000,0,2693702,2693902
+ImBrAid,CRYSEP,VX,main,et_scene,panel_off,accepted,high,,1,2500,582,272374,272474
+ImBrAid,CRYSEP,VX,main,et_scene,panel_on,accepted,high,,1,2500,582,6795676,6795776
+ImBrAid,CU6DM4,VX,main,driver,panel_off,accepted,high,,1,1000,0,65800,66000
+ImBrAid,CU6DM4,VX,main,driver,panel_on,accepted,high,,1,1000,0,2676286,2676486
+ImBrAid,CU6DM4,VX,main,et_scene,panel_off,accepted,high,,1,2500,485,347012,347113
+ImBrAid,CU6DM4,VX,main,et_scene,panel_on,accepted,high,,1,2500,485,6876325,6876426
+ImBrAid,DUJL2L,VX,main,driver,panel_off,accepted,high,,1,1000,0,87346,87546
+ImBrAid,DUJL2L,VX,main,driver,panel_on,accepted,high,,1,1000,0,2697258,2697458
+ImBrAid,DUJL2L,VX,main,et_scene,panel_off,accepted,high,,1,2500,445,201709,201809
+ImBrAid,DUJL2L,VX,main,et_scene,panel_on,accepted,high,,1,2500,445,6729620,6729720
+ImBrAid,E4MKXT,VX,main,driver,panel_off,accepted,high,,1,1000,0,93328,93510
+ImBrAid,E4MKXT,VX,main,driver,panel_on,accepted,high,,1,1000,0,2700852,2701052
+ImBrAid,E4MKXT,VX,main,et_scene,panel_off,accepted,high,,1,2500,507,349539,349639
+ImBrAid,E4MKXT,VX,main,et_scene,panel_on,accepted,high,,1,2500,507,6871338,6871438
+ImBrAid,EASFXM,VX,main,driver,panel_off,accepted,high,,1,1000,0,44800,45000
+ImBrAid,EASFXM,VX,main,driver,panel_on,accepted,high,,1,1000,0,2653721,2653921
+ImBrAid,EASFXM,VX,main,et_scene,panel_off,accepted,high,,1,2500,510,289032,289132
+ImBrAid,EASFXM,VX,main,et_scene,panel_on,accepted,high,,1,2500,510,6814338,6814438
+ImBrAid,FEDZAG,VX,main,driver,panel_off,accepted,high,,1,1000,0,67898,68098
+ImBrAid,FEDZAG,VX,main,driver,panel_on,not_visible,high,no panel on,1,1000,0,,
+ImBrAid,FEDZAG,VX,main,et_scene,panel_off,accepted,high,,1,2500,561,287179,287380
+ImBrAid,FEDZAG,VX,main,et_scene,panel_on,accepted,high,,1,2500,561,6801610,6801710
+ImBrAid,FGJK2B,VX,main,driver,panel_off,accepted,high,,1,1000,0,71966,72166
+ImBrAid,FGJK2B,VX,main,driver,panel_on,accepted,high,,1,1000,0,2676087,2676287
+ImBrAid,FGJK2B,VX,main,et_scene,panel_off,accepted,high,,1,2500,377,185311,185411
+ImBrAid,FGJK2B,VX,main,et_scene,panel_on,accepted,high,,1,2500,377,6698996,6699096
+ImBrAid,FLZWD8,VX,main,driver,panel_off,accepted,high,,1,1000,0,71191,71391
+ImBrAid,FLZWD8,VX,main,driver,panel_on,accepted,high,laptop on,1,1000,0,2608578,2608778
+ImBrAid,FLZWD8,VX,main,et_scene,panel_off,accepted,high,,1,2500,292,326081,326181
+ImBrAid,FLZWD8,VX,main,et_scene,panel_on,accepted,high,Laptop on,1,2500,292,6673064,6673165
+ImBrAid,G93LYM,VX,main,driver,panel_off,accepted,high,,1,1000,0,59066,59266
+ImBrAid,G93LYM,VX,main,driver,panel_on,accepted,high,,1,1000,0,2668961,2669161
+ImBrAid,G93LYM,VX,main,et_scene,panel_off,not_visible,high,no panel on,1,2500,745,,
+ImBrAid,G93LYM,VX,main,et_scene,panel_on,accepted,high,,1,2500,745,4420541,4420642
+ImBrAid,GLRNU9,VX,main,driver,panel_off,accepted,high,,1,1000,0,106781,106981
+ImBrAid,GLRNU9,VX,main,driver,panel_on,not_visible,high,no panel on,1,1000,0,,
+ImBrAid,GLRNU9,VX,main,et_scene,panel_off,accepted,high,,1,2500,290,259659,259760
+ImBrAid,GLRNU9,VX,main,et_scene,panel_on,not_visible,high,no panel on,1,2500,290,,
+ImBrAid,HH5RBX,VX,main,driver,panel_off,accepted,high,,1,1000,0,44200,44400
+ImBrAid,HH5RBX,VX,main,driver,panel_on,accepted,high,,1,1000,0,2652738,2652938
+ImBrAid,HH5RBX,VX,main,et_scene,panel_off,not_visible,high,no panel on,1,2500,699,,
+ImBrAid,HH5RBX,VX,main,et_scene,panel_on,accepted,high,,1,2500,699,6491743,6491843
+ImBrAid,HKJPM3,VX,main,driver,panel_off,accepted,high,,1,1000,0,67603,67803
+ImBrAid,HKJPM3,VX,main,driver,panel_on,accepted,high,,1,1000,0,2674265,2674465
+ImBrAid,HNWSPB,VX,main,driver,panel_off,accepted,high,,1,1000,0,80278,80478
+ImBrAid,HNWSPB,VX,main,driver,panel_on,accepted,high,laptop on,1,1000,0,2587355,2587555
+ImBrAid,HNWSPB,VX,main,et_scene,panel_off,accepted,high,,1,2500,499,54196,54296
+ImBrAid,HNWSPB,VX,main,et_scene,panel_on,accepted,low,laptop on,1,2500,499,6326544,6326644
+ImBrAid,JVC62S,VX,main,driver,panel_off,accepted,high,,1,1000,0,71402,71602
+ImBrAid,JVC62S,VX,main,driver,panel_on,accepted,high,something happened with silab2,1,1000,0,2680332,2680532
+ImBrAid,JVC62S,VX,main,et_scene,panel_off,accepted,high,,1,2500,291,180517,180617
+ImBrAid,JVC62S,VX,main,et_scene,panel_on,accepted,high,something happened with silab2,1,2500,291,1326290,1326390
+ImBrAid,LGJEFY,VX,main,driver,panel_off,accepted,high,,1,1000,0,92122,92322
+ImBrAid,LGJEFY,VX,main,driver,panel_on,accepted,high,,1,1000,0,2699026,2699226
+ImBrAid,LGJEFY,VX,main,et_scene,panel_off,accepted,high,,1,2500,225,233346,233547
+ImBrAid,LGJEFY,VX,main,et_scene,panel_on,accepted,high,,1,2500,225,6753843,6753944
+ImBrAid,LKK2WT,VX,main,driver,panel_off,accepted,high,,1,1000,0,59493,59693
+ImBrAid,LKK2WT,VX,main,driver,panel_on,accepted,high,,1,1000,0,2666463,2666663
+ImBrAid,LKK2WT,VX,main,et_scene,panel_off,accepted,high,,1,2500,172,199633,199834
+ImBrAid,LKK2WT,VX,main,et_scene,panel_on,accepted,high,,1,2500,172,6720731,6720832
+ImBrAid,MUHKQF,VX,main,driver,panel_off,accepted,high,,1,1000,0,52544,52744
+ImBrAid,MUHKQF,VX,main,driver,panel_on,accepted,high,,1,1000,0,2661386,2661586
+ImBrAid,MUHKQF,VX,main,et_scene,panel_off,not_visible,high,no panel on,1,2500,203,,
+ImBrAid,MUHKQF,VX,main,et_scene,panel_on,accepted,high,,1,2500,203,3836844,3836945
+ImBrAid,N37VFK,VX,main,driver,panel_off,accepted,high,,1,1000,0,414275,414475
+ImBrAid,N37VFK,VX,main,driver,panel_on,accepted,high,,1,1000,0,3021007,3021207
+ImBrAid,N37VFK,VX,main,et_scene,panel_off,accepted,high,,1,2500,250,300594,300694
+ImBrAid,N37VFK,VX,main,et_scene,panel_on,accepted,high,,1,2500,250,6827101,6827202
+ImBrAid,N7C4A6,VX,main,driver,panel_off,accepted,high,,1,1000,0,99526,99726
+ImBrAid,N7C4A6,VX,main,driver,panel_on,accepted,high,,1,1000,0,2699757,2699957
+ImBrAid,N7C4A6,VX,main,et_scene,panel_off,accepted,high,,1,2500,759,263435,263535
+ImBrAid,N7C4A6,VX,main,et_scene,panel_on,accepted,high,,1,2500,759,6767301,6767402
+ImBrAid,NJN65T,VX,main,driver,panel_off,accepted,high,,1,1000,0,90745,90945
+ImBrAid,NJN65T,VX,main,driver,panel_on,accepted,high,,1,1000,0,2720323,2720523
+ImBrAid,NJN65T,VX,main,et_scene,panel_off,accepted,high,,1,2500,572,238904,239004
+ImBrAid,NJN65T,VX,main,et_scene,panel_on,accepted,high,,1,2500,572,6816103,6816203
+ImBrAid,PJ52F4,VX,main,driver,panel_off,accepted,high,,1,1000,0,66767,66958
+ImBrAid,PJ52F4,VX,main,driver,panel_on,accepted,high,,1,1000,0,2675879,2676079
+ImBrAid,PJ52F4,VX,main,et_scene,panel_off,accepted,high,,1,2500,507,220605,220705
+ImBrAid,PJ52F4,VX,main,et_scene,panel_on,accepted,high,,1,2500,507,6746512,6746612
+ImBrAid,Q5ZPCB,VX,main,driver,panel_off,accepted,high,,1,1000,0,54902,55102
+ImBrAid,Q5ZPCB,VX,main,driver,panel_on,accepted,high,,1,1000,0,2663632,2663832
+ImBrAid,Q5ZPCB,VX,main,et_scene,panel_off,accepted,high,,1,2500,577,256741,256841
+ImBrAid,Q5ZPCB,VX,main,et_scene,panel_on,accepted,high,,1,2500,577,6781846,6781946
+ImBrAid,R595WP,VX,main,driver,panel_off,accepted,high,,1,1000,0,77792,77992
+ImBrAid,R595WP,VX,main,driver,panel_on,accepted,high,,1,1000,0,2683930,2684130
+ImBrAid,R595WP,VX,main,et_scene,panel_off,accepted,high,,1,2500,491,265370,265571
+ImBrAid,R595WP,VX,main,et_scene,panel_on,accepted,high,,1,2500,491,6783964,6784064
+ImBrAid,R8YB77,VX,main,driver,panel_off,accepted,high,,1,1000,0,150191,150391
+ImBrAid,R8YB77,VX,main,driver,panel_on,accepted,high,marked as laptop on,1,1000,0,2581327,2581527
+ImBrAid,R8YB77,VX,main,et_scene,panel_off,accepted,high,,1,2500,522,308580,308680
+ImBrAid,R8YB77,VX,main,et_scene,panel_on,accepted,high,,1,2500,522,6845807,6845907
+ImBrAid,RYE8J9,VX,main,driver,panel_off,accepted,high,,1,1000,0,65765,65965
+ImBrAid,RYE8J9,VX,main,driver,panel_on,accepted,high,,1,1000,0,2675631,2675831
+ImBrAid,RYE8J9,VX,main,et_scene,panel_off,accepted,high,,1,2500,491,408229,408329
+ImBrAid,RYE8J9,VX,main,et_scene,panel_on,accepted,high,,1,2500,491,6936140,6936240
+ImBrAid,RZKLE8,VX,main,driver,panel_off,accepted,high,,1,1000,0,70282,70482
+ImBrAid,RZKLE8,VX,main,driver,panel_on,accepted,high,,1,1000,0,2681349,2681549
+ImBrAid,RZKLE8,VX,main,et_scene,panel_off,accepted,high,,1,2500,491,258257,258358
+ImBrAid,RZKLE8,VX,main,et_scene,panel_on,not_visible,high,no panel on,1,2500,491,,
+ImBrAid,S99GF9,VX,main,driver,panel_off,accepted,high,,1,1000,0,79124,79324
+ImBrAid,S99GF9,VX,main,driver,panel_on,accepted,high,laptop on,1,1000,0,2466660,2466860
+ImBrAid,S99GF9,VX,main,et_scene,panel_off,not_visible,high,start after panel off,1,2500,748,,
+ImBrAid,S99GF9,VX,main,et_scene,panel_on,accepted,high,laptop on,1,2500,748,5908737,5908837
+ImBrAid,SHUPW7,VX,main,driver,panel_off,accepted,high,,1,1000,0,83573,83773
+ImBrAid,SHUPW7,VX,main,driver,panel_on,accepted,high,,1,1000,0,2694086,2694286
+ImBrAid,SHUPW7,VX,main,et_scene,panel_off,accepted,high,,1,2500,124,457151,457351
+ImBrAid,SHUPW7,VX,main,et_scene,panel_on,accepted,high,,1,2500,124,6987065,6987165
+ImBrAid,SPKHNL,VX,main,driver,panel_off,accepted,high,,1,1000,0,11000,11200
+ImBrAid,SPKHNL,VX,main,driver,panel_on,accepted,high,,1,1000,0,2620120,2620320
+ImBrAid,SPKHNL,VX,main,et_scene,panel_off,accepted,high,,1,2500,518,251573,251673
+ImBrAid,SPKHNL,VX,main,et_scene,panel_on,accepted,high,,1,2500,518,6777680,6777780
+ImBrAid,TXRE5B,VX,main,driver,panel_off,accepted,high,,1,1000,0,76311,76511
+ImBrAid,TXRE5B,VX,main,driver,panel_on,accepted,high,,1,1000,0,2685048,2685248
+ImBrAid,TXRE5B,VX,main,et_scene,panel_off,accepted,high,,1,2500,351,163446,163546
+ImBrAid,TXRE5B,VX,main,et_scene,panel_on,accepted,high,,1,2500,351,6688351,6688451
+ImBrAid,U83GH3,VX,main,driver,panel_off,accepted,high,,1,1000,0,37000,37400
+ImBrAid,U83GH3,VX,main,driver,panel_on,accepted,high,,1,1000,0,2645738,2645938
+ImBrAid,U83GH3,VX,main,et_scene,panel_off,accepted,high,,1,2500,158,334363,334463
+ImBrAid,U83GH3,VX,main,et_scene,panel_on,accepted,high,,1,2500,158,6859268,6859368
+ImBrAid,UY6WA8,VX,main,driver,panel_off,accepted,high,,1,1000,0,54800,55000
+ImBrAid,UY6WA8,VX,main,driver,panel_on,accepted,high,,1,1000,0,2665738,2665938
+ImBrAid,UY6WA8,VX,main,et_scene,panel_off,accepted,high,,1,2500,216,307072,307172
+ImBrAid,UY6WA8,VX,main,et_scene,panel_on,accepted,high,,1,2500,216,6837987,6838088
+ImBrAid,V3SLBM,VX,main,driver,panel_off,accepted,high,,1,1000,0,59400,59600
+ImBrAid,V3SLBM,VX,main,driver,panel_on,accepted,high,laptop on,1,1000,0,867286,867486
+ImBrAid,V3SLBM,VX,main,et_scene,panel_off,not_visible,high,video too short,1,2500,443,,
+ImBrAid,V3SLBM,VX,main,et_scene,panel_on,not_visible,high,video too short,1,2500,443,,
+ImBrAid,VUT5TP,VX,main,driver,panel_off,accepted,high,,1,1000,0,75201,75401
+ImBrAid,VUT5TP,VX,main,driver,panel_on,accepted,high,,1,1000,0,2680451,2680651
+ImBrAid,VUT5TP,VX,main,et_scene,panel_off,accepted,high,,1,2500,473,251928,252129
+ImBrAid,VUT5TP,VX,main,et_scene,panel_on,accepted,high,,1,2500,473,6768318,6768418
+ImBrAid,W3MTYZ,VX,main,driver,panel_off,accepted,high,,1,1000,0,60545,60745
+ImBrAid,W3MTYZ,VX,main,driver,panel_on,accepted,high,,1,1000,0,2675648,2675848
+ImBrAid,W3MTYZ,VX,main,et_scene,panel_off,accepted,high,,1,2500,113,3361294,3361394
+ImBrAid,W3MTYZ,VX,main,et_scene,panel_on,accepted,high,,1,2500,113,9884496,9884596
+ImBrAid,XJF6R9,VX,main,driver,panel_off,accepted,high,,1,1000,0,108527,108727
+ImBrAid,XJF6R9,VX,main,driver,panel_on,accepted,high,,1,1000,0,2715096,2715296
+ImBrAid,XJF6R9,VX,main,et_scene,panel_off,accepted,high,,1,2500,297,281806,281906
+ImBrAid,XJF6R9,VX,main,et_scene,panel_on,accepted,high,,1,2500,297,6801702,6801802
+ImBrAid,YHYKDQ,VX,main,driver,panel_off,accepted,high,,1,1000,0,93668,93868
+ImBrAid,YHYKDQ,VX,main,driver,panel_on,accepted,high,,1,1000,0,2700798,2700998
+ImBrAid,YHYKDQ,VX,main,et_scene,panel_off,accepted,high,,1,2500,485,279089,279189
+ImBrAid,YHYKDQ,VX,main,et_scene,panel_on,accepted,high,,1,2500,485,6799986,6800087
+ImBrAid,Z8HDMS,VX,main,driver,panel_off,accepted,high,,1,1000,0,39000,39200
+ImBrAid,Z8HDMS,VX,main,driver,panel_on,accepted,high,,1,1000,0,2644738,2644938
+ImBrAid,Z8HDMS,VX,main,et_scene,panel_off,accepted,high,,1,2500,239,397257,397458
+ImBrAid,Z8HDMS,VX,main,et_scene,panel_on,accepted,high,,1,2500,239,6914949,6915049
+ImBrAid,ZQTXLD,VX,main,driver,panel_off,accepted,high,,1,1000,0,108111,108311
+ImBrAid,ZQTXLD,VX,main,driver,panel_on,accepted,high,,1,1000,0,2717644,2717844
+ImBrAid,ZQTXLD,VX,main,et_scene,panel_off,accepted,high,,1,2500,273,528529,528629
+ImBrAid,ZQTXLD,VX,main,et_scene,panel_on,accepted,high,,1,2500,273,7056038,7056139

@@ -1,0 +1,11 @@
+ffmpeg-python
+ipython
+ipywidgets
+matplotlib
+mediapipe
+numpy
+opencv-python
+pandas
+pyxdf
+scipy
+tqdm

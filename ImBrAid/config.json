@@ -1,0 +1,39 @@
+{
+  "project": "ImBrAid",
+  "paths": {
+    "raw_data_root": "E:/test/DatasetForPublish/raw_data",
+    "random_id_root": "E:/test/random_id",
+    "processing_data_root": "E:/test/time_shifted",
+    "eyeball_work_root": "E:/test/processed/Eyeball_Videos",
+    "driver_landmark_root": "E:/test/processed/DriverVideo_Face_Landmarks",
+    "idun_repair_root": "E:/test/processed/IDUN_repaired",
+    "publication_root": "E:/test/DatasetForPublish/preprocessed_data",
+    "publication_raw_data_root": "E:/test/DatasetForPublish/raw_data",
+    "not_public_controled_data_root": "E:/test/controlled_data"
+  },
+  "files": {
+    "panel_annotations_csv": "SyncQuality/annotations/panel_annotations.csv",
+    "et_lsl_alignment_csv": "E:/test/SyncQuality/01_et_raw_lsl_alignment.csv",
+    "et_lsl_windows_csv": "E:/test/SyncQuality/01_et_raw_lsl_windows.csv",
+    "et_lsl_issues_csv": "E:/test/SyncQuality/01_et_raw_lsl_issues.csv",
+    "driver_et_alignment_csv": "E:/test/SyncQuality/02_driver_et_raw_alignment.csv",
+    "driver_et_issues_csv": "E:/test/SyncQuality/02_driver_et_raw_issues.csv",
+    "et_eyeball_alignment_csv": "E:/test/SyncQuality/03_eyeball_et_raw_alignment.csv",
+    "et_eyeball_windows_csv": "E:/test/SyncQuality/03_eyeball_et_raw_windows.csv",
+    "et_eyeball_issues_csv": "E:/test/SyncQuality/03_eyeball_et_raw_issues.csv",
+    "idun_lsl_alignment_csv": "E:/test/SyncQuality/05_idun_raw_lsl_alignment.csv",
+    "idun_lsl_channels_csv": "E:/test/SyncQuality/05_idun_raw_lsl_channels.csv",
+    "idun_lsl_windows_csv": "E:/test/SyncQuality/05_idun_raw_lsl_windows.csv",
+    "idun_lsl_issues_csv": "E:/test/SyncQuality/05_idun_raw_lsl_issues.csv",
+    "eyeball_export_summary_csv": "E:/test/SyncQuality/10_eyeball_export_summary.csv",
+    "driver_video_export_summary_csv": "E:/test/SyncQuality/10_driver_video_export_summary.csv",
+    "idun_export_summary_csv": "E:/test/SyncQuality/10_idun_export_summary.csv",
+    "idun_export_issues_csv": "E:/test/SyncQuality/10_idun_export_issues.csv",
+    "private_mapping_csv": "E:/test/Private/pid_visit_random_id.csv"
+  },
+  "modalities": {
+    "eyeball_source_subfolder": "ET",
+    "driver_video_source_subfolder": "Driver Video",
+    "cap_eeg_stream_name": "EEGfm"
+  }
+}
