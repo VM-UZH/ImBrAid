@@ -1,0 +1,44 @@
+project,pid,visit,segment_id,mapping_status,usable,quality_grade,review_required,mapping_reason,anchor_count,driver_to_et_raw_intercept_s,driver_to_et_raw_scale,driver_to_et_raw_drift_ppm,driver_interpolation_start_s,driver_interpolation_end_s,warnings
+ImBrAid,A7G5SM,VX,main,affine,True,B,False,two accepted event pairs passed mapping QC,2,3.329110655781662,1.0005229243924116,522.9243924116389,79.34100000000001,2689.661,
+ImBrAid,ABVLGQ,VX,main,affine,True,B,False,two accepted event pairs passed mapping QC,2,11.103562383957268,1.0005076017599317,507.6017599316973,77.30000000000001,2686.038,
+ImBrAid,B9NYQ8,VX,main,affine,True,B,False,two accepted event pairs passed mapping QC,2,35.206123306014476,1.0005298424502627,529.8424502626631,54.878,2663.578,
+ImBrAid,CRVWF9,VX,main,affine,True,B,False,two accepted event pairs passed mapping QC,2,34.50628424030026,1.000528516717488,528.5167174879923,60.009,2673.739,
+ImBrAid,CRYSEP,VX,main,affine,True,A,False,two accepted event pairs passed mapping QC,2,23.24091798691238,1.000463093431918,463.0934319180824,85.689,2693.802,
+ImBrAid,CU6DM4,VX,main,affine,True,A,False,two accepted event pairs passed mapping QC,2,72.89371721204401,1.0004747008794532,474.700879453227,65.9,2676.386,
+ImBrAid,DUJL2L,VX,main,affine,True,A,False,two accepted event pairs passed mapping QC,2,-6.784362093128053,1.0004798629225813,479.86292258128674,87.446,2697.358,
+ImBrAid,E4MKXT,VX,main,affine,True,A,False,two accepted event pairs passed mapping QC,2,46.37408817545166,1.0004550661487313,455.0661487312535,93.41900000000001,2700.952,
+ImBrAid,EASFXM,VX,main,affine,True,A,False,two accepted event pairs passed mapping QC,2,70.71212368975526,1.0004604968874107,460.4968874106774,44.9,2653.821,
+ImBrAid,FEDZAG,VX,main,offset_only,True,C,True,"one paired event; usable with scale fixed to 1, no measured drift, and a growing drift-bound uncertainty",1,46.91380000000001,1.0,,67.99799999999999,67.99799999999999,single anchor cannot estimate clock drift; scale is fixed to 1 and uncertainty grows using the configured drift bound
+ImBrAid,FGJK2B,VX,main,affine,True,B,False,two accepted event pairs passed mapping QC,2,2.0409573089729776,1.0005195611110236,519.5611110235809,72.066,2676.187,
+ImBrAid,FLZWD8,VX,main,affine,True,B,False,two accepted event pairs passed mapping QC,2,59.121885466978455,1.0005542709882251,554.2709882251362,71.291,2608.678,
+ImBrAid,G93LYM,VX,main,offset_only,True,C,True,"one paired event; usable with scale fixed to 1, no measured drift, and a growing drift-bound uncertainty",1,-900.8243999999997,1.0,,2669.0609999999997,2669.0609999999997,single anchor cannot estimate clock drift; scale is fixed to 1 and uncertainty grows using the configured drift bound
+ImBrAid,GLRNU9,VX,main,offset_only,True,C,True,"one paired event; usable with scale fixed to 1, no measured drift, and a growing drift-bound uncertainty",1,-2.9972000000000065,1.0,,106.881,106.881,single anchor cannot estimate clock drift; scale is fixed to 1 and uncertainty grows using the configured drift bound
+ImBrAid,HH5RBX,VX,main,offset_only,True,C,True,"one paired event; usable with scale fixed to 1, no measured drift, and a growing drift-bound uncertainty",1,-56.12079999999969,1.0,,2652.8379999999997,2652.8379999999997,single anchor cannot estimate clock drift; scale is fixed to 1 and uncertainty grows using the configured drift bound
+ImBrAid,HKJPM3,VX,main,unavailable,False,D,False,no paired accepted panel anchors,0,,,,,,
+ImBrAid,HNWSPB,VX,main,review_affine,True,C,True,at least one accepted anchor has low confidence,2,-58.73930295750788,1.0007427773458892,742.777345889234,80.378,2587.455,at least one accepted anchor has low confidence
+ImBrAid,JVC62S,VX,main,invalid_affine,False,D,True,affine coefficients are diagnostic only; hard QC failed,2,59.66608567711667,0.1756694123644559,-824330.5876355441,71.50200000000001,2680.432,
+ImBrAid,LGJEFY,VX,main,affine,True,A,False,two accepted event pairs passed mapping QC,2,1.1115025949555388,1.0004890091848415,489.00918484151566,92.22200000000001,2699.126,
+ImBrAid,LKK2WT,VX,main,affine,True,B,False,two accepted event pairs passed mapping QC,2,20.267272585568683,1.0005558943908062,555.8943908061665,59.593,2666.563,
+ImBrAid,MUHKQF,VX,main,offset_only,True,C,True,"one paired event; usable with scale fixed to 1, no measured drift, and a growing drift-bound uncertainty",1,-1126.7281999999998,1.0,,2661.486,2661.486,single anchor cannot estimate clock drift; scale is fixed to 1 and uncertainty grows using the configured drift bound
+ImBrAid,N37VFK,VX,main,affine,True,B,False,two accepted event pairs passed mapping QC,2,-294.732747348711,1.001485001143194,1485.0011431939424,414.375,3021.107,
+ImBrAid,N7C4A6,VX,main,affine,True,B,False,two accepted event pairs passed mapping QC,2,5.717593722403905,1.00050595504784,505.9550478399011,99.626,2699.857,
+ImBrAid,NJN65T,VX,main,affine,True,A,False,two accepted event pairs passed mapping QC,2,4.691633145242335,1.0004949843663127,494.9843663126785,90.845,2720.423,
+ImBrAid,PJ52F4,VX,main,affine,True,A,False,two accepted event pairs passed mapping QC,2,21.36756170450802,1.0004776712730152,477.67127301523436,66.8625,2675.9790000000003,
+ImBrAid,Q5ZPCB,VX,main,affine,True,B,False,two accepted event pairs passed mapping QC,2,47.68673802501602,1.000502926711465,502.92671146490164,55.001999999999995,2663.732,
+ImBrAid,R595WP,VX,main,affine,True,A,False,two accepted event pairs passed mapping QC,2,28.2579614167784,1.0004909179790171,490.91797901712476,77.892,2684.0299999999997,
+ImBrAid,R8YB77,VX,main,invalid_affine,False,D,True,affine coefficients are diagnostic only; hard QC failed,2,-38.19858360486623,1.0755839245521437,75583.92455214368,150.291,2581.427,
+ImBrAid,RYE8J9,VX,main,affine,True,A,False,two accepted event pairs passed mapping QC,2,97.41383237284981,1.0004974968063494,497.4968063493623,65.86500000000001,2675.7309999999998,
+ImBrAid,RZKLE8,VX,main,offset_only,True,C,True,"one paired event; usable with scale fixed to 1, no measured drift, and a growing drift-bound uncertainty",1,32.94099999999999,1.0,,70.382,70.382,single anchor cannot estimate clock drift; scale is fixed to 1 and uncertainty grows using the configured drift bound
+ImBrAid,S99GF9,VX,main,offset_only,True,C,True,"one paired event; usable with scale fixed to 1, no measured drift, and a growing drift-bound uncertainty",1,-103.2452000000003,1.0,,2466.76,2466.76,single anchor cannot estimate clock drift; scale is fixed to 1 and uncertainty grows using the configured drift bound
+ImBrAid,SHUPW7,VX,main,affine,True,B,False,two accepted event pairs passed mapping QC,2,99.18148184529247,1.0005487810250322,548.7810250321967,83.673,2694.1859999999997,
+ImBrAid,SPKHNL,VX,main,affine,True,B,False,two accepted event pairs passed mapping QC,2,89.54357240142271,1.0005069908628195,506.99086281946745,11.1,2620.2200000000003,
+ImBrAid,TXRE5B,VX,main,affine,True,A,False,two accepted event pairs passed mapping QC,2,-11.048480763373234,1.0004695758905555,469.5758905555181,76.411,2685.148,
+ImBrAid,U83GH3,VX,main,affine,True,B,False,two accepted event pairs passed mapping QC,2,96.54631934273746,1.000507544550068,507.54455006796206,37.2,2645.8379999999997,
+ImBrAid,UY6WA8,VX,main,affine,True,B,False,two accepted event pairs passed mapping QC,2,67.91876934435058,1.0005470064781317,547.0064781316619,54.9,2665.8379999999997,
+ImBrAid,V3SLBM,VX,main,unavailable,False,D,False,no paired accepted panel anchors,0,,,,,,
+ImBrAid,VUT5TP,VX,main,affine,True,A,False,two accepted event pairs passed mapping QC,2,25.473235802399017,1.000493541886575,493.54188657502186,75.30099999999999,2680.551,
+ImBrAid,W3MTYZ,VX,main,review_affine,True,C,True,absolute clock drift 2226.4 ppm exceeds review threshold 2000.0 ppm,2,1284.0276185132288,0.9977736249776777,-2226.375022322258,60.644999999999996,2675.748,absolute clock drift 2226.4 ppm exceeds review threshold 2000.0 ppm
+ImBrAid,XJF6R9,VX,main,affine,True,B,False,two accepted event pairs passed mapping QC,2,4.057497694785738,1.0005330378746928,533.0378746928321,108.62700000000001,2715.196,
+ImBrAid,YHYKDQ,VX,main,affine,True,A,False,two accepted event pairs passed mapping QC,2,17.84339780371522,1.000471399584984,471.39958498410016,93.768,2700.898,
+ImBrAid,Z8HDMS,VX,main,affine,True,B,False,two accepted event pairs passed mapping QC,2,119.82321395090372,1.0005060370612855,506.0370612854914,39.1,2644.8379999999997,
+ImBrAid,ZQTXLD,VX,main,affine,True,B,False,two accepted event pairs passed mapping QC,2,103.1596094937293,1.0005636257521942,563.6257521941524,108.21100000000001,2717.7439999999997,

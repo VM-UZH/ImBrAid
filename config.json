@@ -1,0 +1,30 @@
+{
+  "project": "ImBrAid",
+  "paths": {
+    "raw_data_root": "E:/ImBrAid/Data/raw",
+    "random_id_root": "E:/test/random_id",
+    "processing_data_root": "E:/test/time_shifted",
+    "eyeball_work_root": "E:/test/preprocessed/Eyeball_Videos",
+    "driver_landmark_root": "E:/test/preprocessed/DriverVideo_Face_Landmarks",
+    "idun_repair_root": "E:/test/preprocessed/IDUN_repaired",
+    "preprocessed_data_root": "E:/test/DatasetForPublic/preprocessed_data",
+    "public_raw_data_root": "E:/test/DatasetForPublic/raw_data",
+    "not_public_controled_data_root": "E:/test/controlled_data",
+    "figures_cache_root": "E:/test/figures_cache"
+  },
+  "files": {
+    "panel_annotations_csv": "pipeline/Sync_and_Quality/annotations/panel_annotations.csv",
+    "et_lsl_alignment_csv": "pipeline/Sync_and_Quality/docs/details/01_et_raw_lsl_alignment.csv",
+    "driver_et_alignment_csv": "pipeline/Sync_and_Quality/docs/details/02_driver_et_raw_alignment.csv",
+    "et_eyeball_alignment_csv": "pipeline/Sync_and_Quality/docs/details/03_eyeball_et_raw_alignment.csv",
+    "idun_lsl_alignment_csv": "pipeline/Sync_and_Quality/docs/details/04_idun_raw_lsl_alignment.csv",
+    "sq_summary_xlsx": "pipeline/Sync_and_Quality/docs/sync_quality_summary.xlsx",
+    "private_mapping_csv": "E:/test/Private/pid_visit_random_id.csv",
+    "data_avalibility_csv": "pipeline/Sync_and_Quality/docs/data_availability.csv"
+  },
+  "modalities": {
+    "eyeball_source_subfolder": "ET",
+    "driver_video_source_subfolder": "Driver Video",
+    "cap_eeg_stream_name": "EEGfm"
+  }
+}
